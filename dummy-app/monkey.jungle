@@ -1,0 +1,3 @@
+base.manifest = manifest.xml
+base.sourcePath = source/
+base.resourcePath = resources/

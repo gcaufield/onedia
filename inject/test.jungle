@@ -1,6 +1,6 @@
 project.manifest = test_manifest.xml
-base.sourcePath = source;test;dummy-app
-base.resourcePath = dummy-app/resources
+base.barrelPath = ../dummy-app/DummyApp.jungle
+base.sourcePath = source;test
 
 base.MonkeyTest.annotations = Tests;Mocks
 
