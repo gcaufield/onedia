@@ -1,7 +1,15 @@
 export/
 bin/
+out/
+
 .DS_Store
 *.iq
 *.prg
 *.prg.debug.xml
 *-settings.json
+.DS_Store
+*.barrel
+*.barrel.debug.xml
+
+.mbpkg/
+test_barrels.jungle
